@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemplo_visualStudio_appium", "exemplo_visualStudio_appium\exemplo_visualStudio_appium.csproj", "{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
