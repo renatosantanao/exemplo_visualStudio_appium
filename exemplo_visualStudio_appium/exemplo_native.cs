@@ -34,8 +34,8 @@ namespace exemplo_visualStudio_appium
             capacidades.SetCapability("platformversion", "7.0");
             capacidades.SetCapability("platformName", "Android");
             capacidades.SetCapability(CapabilityType.Platform, "Windows");
-            capacidades.SetCapability("appPackage", "br.com.mc1.android.energisa.launcher");
-            capacidades.SetCapability("appActivity", "br.com.mc1.android.energisa.launcher.LauncherActivity");
+            capacidades.SetCapability("appPackage", "br.com.xxx.android.xxxxx.launcher");
+            capacidades.SetCapability("appActivity", "br.com.xxx.android.xxxxx.launcher.LauncherActivity");
             capacidades.SetCapability("noReset", "true");
 
             driver = new AndroidDriver<AndroidElement>(new Uri("http://127.0.0.1:4723/wd/hub"), capacidades, TimeSpan.FromSeconds(180));
@@ -44,7 +44,7 @@ namespace exemplo_visualStudio_appium
         [TestMethod]
         public void TestLis()
         {
-            driver.FindElementById("br.com.mc1.android.energisa.launcher:id/imgIcon").Click();
+            driver.FindElementById("br.com.xxx.android.xxxxx.launcher:id/imgIcon").Click();
         }
 
         [TestCleanup]

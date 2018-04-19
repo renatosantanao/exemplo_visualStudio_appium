@@ -5799,11 +5799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/renato/Workspace/exemplo_visualStudio_appium/exemplo_visualStudio_appium/exemplo_visualStudio_appium.csproj",
+      "projectUniqueName": "/Users/renato/Projects/exemplo_visualStudio_appium/exemplo_visualStudio_appium/exemplo_visualStudio_appium.csproj",
       "projectName": "exemplo_visualStudio_appium",
-      "projectPath": "/Users/renato/Workspace/exemplo_visualStudio_appium/exemplo_visualStudio_appium/exemplo_visualStudio_appium.csproj",
+      "projectPath": "/Users/renato/Projects/exemplo_visualStudio_appium/exemplo_visualStudio_appium/exemplo_visualStudio_appium.csproj",
       "packagesPath": "/Users/renato/.nuget/packages/",
-      "outputPath": "/Users/renato/Workspace/exemplo_visualStudio_appium/exemplo_visualStudio_appium/obj/",
+      "outputPath": "/Users/renato/Projects/exemplo_visualStudio_appium/exemplo_visualStudio_appium/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
