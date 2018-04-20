@@ -1,7 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemplo_visualStudio_appium", "exemplo_visualStudio_appium\exemplo_visualStudio_appium.csproj", "{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemplo_visualStudio_appium", "exemplo_visualStudio_appium\exemplo_visualStudio_appium.csproj", "{6FF7B7DA-0A5A-43B8-B449-E28491BE6F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79B99AFD-C316-4F11-82F8-07ADF46C4DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF7B7DA-0A5A-43B8-B449-E28491BE6F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF7B7DA-0A5A-43B8-B449-E28491BE6F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF7B7DA-0A5A-43B8-B449-E28491BE6F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF7B7DA-0A5A-43B8-B449-E28491BE6F45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
