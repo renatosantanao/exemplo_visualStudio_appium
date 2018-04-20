@@ -1,0 +1,14 @@
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\exemplo_visualStudio_appium.dll
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\exemplo_visualStudio_appium.pdb
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\appium-dotnet-driver.dll
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\Castle.Core.dll
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\WebDriver.dll
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\WebDriver.Support.dll
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\appium-dotnet-driver.xml
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\Castle.Core.xml
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\WebDriver.xml
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\WebDriver.Support.xml
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\obj\Debug\exemplo_visualStudio_appium.dll
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\obj\Debug\exemplo_visualStudio_appium.pdb
