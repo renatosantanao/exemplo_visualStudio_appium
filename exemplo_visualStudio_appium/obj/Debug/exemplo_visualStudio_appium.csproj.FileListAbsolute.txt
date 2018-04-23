@@ -10,5 +10,6 @@ C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\C
 C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\Newtonsoft.Json.xml
 C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\WebDriver.xml
 C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\bin\Debug\WebDriver.Support.xml
+C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\obj\Debug\exemplo_visualStudio_appium.csprojResolveAssemblyReference.cache
 C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\obj\Debug\exemplo_visualStudio_appium.dll
 C:\Workspace\exemplo_visualStudio_appium\exemplo_visualStudio_appium\obj\Debug\exemplo_visualStudio_appium.pdb

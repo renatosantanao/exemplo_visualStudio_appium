@@ -33,8 +33,8 @@ namespace exemplo_visualStudio_appium.Testes
             capacidade.SetCapability(MobileCapabilityType.PlatformName, "Android");
             capacidade.SetCapability(MobileCapabilityType.DeviceName, "k10 Power");
             capacidade.SetCapability(CapabilityType.Platform, "Windows");
-            capacidade.SetCapability("appPackage", "br.com.mc1.android.energisa.launcher");
-            capacidade.SetCapability("appActivity", "br.com.mc1.android.energisa.launcher.LauncherActivity");
+            capacidade.SetCapability("appPackage", "br.com.xxx.android.xxxxxxx.launcher");
+            capacidade.SetCapability("appActivity", "br.com.xxx.android.xxxxxxx.launcher.LauncherActivity");
             capacidade.SetCapability("noReset", "true");
             capacidade.SetCapability("fullReset", "false");
             capacidade.SetCapability("dontStopAppOnReset", "true");
@@ -52,13 +52,13 @@ namespace exemplo_visualStudio_appium.Testes
             WebDriverWait aguardandoElmento = new WebDriverWait(driver, TimeSpan.FromSeconds(30));
 
             //interagindo com os componentes
-            driver.FindElementById("br.com.mc1.android.energisa.launcher:id/imgIcon").Click();
+            driver.FindElementById("br.com.xxx.android.xxxxxxx.launcher:id/imgIcon").Click();
 
             //aguarda até que o elemento exista
-            aguardandoElmento.Until(ExpectedConditions.ElementExists(By.Id("br.com.mc1.android.energisa.lis:id/btnLogin")));
+            aguardandoElmento.Until(ExpectedConditions.ElementExists(By.Id("br.com.xxx.android.xxxxxxx.lis:id/btnLogin")));
 
             //verifica o nome do botão, mas a ideia da variável seria para retorno ou exibição de mensagem
-            String mensagemAtual = driver.FindElementById("br.com.mc1.android.energisa.lis:id/btnLogin").Text;
+            String mensagemAtual = driver.FindElementById("br.com.xxx.android.xxxxxxx.lis:id/btnLogin").Text;
             Assert.AreEqual("ENTRAR", mensagemAtual);
 
         }

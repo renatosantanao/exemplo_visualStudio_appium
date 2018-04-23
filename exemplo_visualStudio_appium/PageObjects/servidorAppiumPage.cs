@@ -29,8 +29,8 @@ namespace exemplo_visualStudio_appium.PageObjects
             capacidade.SetCapability(MobileCapabilityType.PlatformName, "Android");
             capacidade.SetCapability(MobileCapabilityType.DeviceName, "k10 Power");
             capacidade.SetCapability(CapabilityType.Platform,"Windows");
-            capacidade.SetCapability("appPackage", "br.com.mc1.android.energisa.launcher");
-            capacidade.SetCapability("appActivity", "br.com.mc1.android.energisa.launcher.LauncherActivity");
+            capacidade.SetCapability("appPackage", "br.com.xxx.android.xxxxxxx.launcher");
+            capacidade.SetCapability("appActivity", "br.com.xxx.android.xxxxxxx.launcher.LauncherActivity");
             capacidade.SetCapability("noReset", "true");
             capacidade.SetCapability("fullReset", "false");
             capacidade.SetCapability("dontStopAppOnReset", "true");
